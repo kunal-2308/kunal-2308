@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Kunal 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kunal-2308&color=blue)
 
@@ -7,10 +7,10 @@
 I am a passionate Front-End React Developer with a knack for building dynamic, responsive websites and applications. I am currently working on various projects utilizing the MERN stack and always eager to learn new technologies.
 
 - 🔭 I’m currently working on [iNoteBook](https://github.com/kunal-2308/iNoteBook) - a platform for creating and managing notes.
-- 🌱 I’m currently learning DevOps and Machine Learning to enhance my skill set and adapt to the industry environment.
+- 🌱 I’m currently learning Backend, DevOps and Machine Learning to enhance my skill set and adapt to the industry environment.
 - 👯 I’m looking to collaborate on open-source projects and innovative ideas.
 - 💬 Ask me about React, JavaScript, MERN stack, or anything tech-related!
-- 📫 How to reach me: [Your Email](mailto:your.email@example.com)
+- 📫 How to reach me: [My Email](mailto:kunaltaware210@gmail.com)
 - ⚡ Fun fact: I enjoy solving challenging DSA problems and exploring new technologies.
 
 ## Skills
@@ -41,10 +41,9 @@ A simple project demonstrating a reusable modal component in React.
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/your-linkedin-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter)](https://twitter.com/your-twitter-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/kunal-taware-a76832233/)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/kunal-2308)
 
 ---
 
-⭐️ From [Your GitHub Username](https://github.com/kunal-2308)
+⭐️ From [Kunal-2308](https://github.com/kunal-2308)
