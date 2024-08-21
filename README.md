@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kunal</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 🔭 I’m currently working on [iNoteBook](https://github.com/kunal-2308/iNotebook)
+- 🔭 I’m currently working on [WeTech](https://github.com/kunal-2308/WeTech)
 
 - 🌱 I’m currently learning **DevOps**
 
