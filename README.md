@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kunal</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 🔭 I’m currently working on [JobDhundo.Com](https://github.com/kunal-2308/JobDhundo.Com)
+- 🔭 I’m currently working on [JobDhundo.Com]([https://github.com/kunal-2308/JobDhundo.Com](https://github.com/kunal-2308/JobDhundo))
 
 - 🌱 I’m currently learning **DevOps**
 
