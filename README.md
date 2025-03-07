@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/kunal-2308](https://github.com/kunal-2308)
 
-- 💬 Ask me about **React,Node,Express,HTML,CSS,TailWind,Handlebars**
+- 💬 Ask me about **React,Node,ASP.Net Core, GSAP**
 
 - 📫 How to reach me **kunaltaware210@gmail.com**
 
