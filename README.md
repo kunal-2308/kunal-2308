@@ -24,6 +24,28 @@ I'm a backend engineer passionate about building reliable, secure, and scalable 
 - 📄 Resume: [View My Resume](https://drive.google.com/file/d/1IEW4f40aTq4tSW1etLXW6pxzxQSYOoaB/view?usp=sharing)
 - 📫 Reach me at: **kunaltaware210@gmail.com**
 
+---
+
+### 📂 Previous Work
+
+#### 🥋 [Ptown West MMA](https://ptownwestmma.in/)
+Developed a responsive full-stack platform for a mixed martial arts academy.  
+- Built with **React.js**, **Tailwind CSS**, **Node.js**, and **MongoDB**  
+- Integrated media uploads with **Multer**, and implemented dynamic class scheduling  
+- Deployed the application on **Hostinger** for production use
+
+#### 🐾 CuddleCrew – Multi-Tenant SaaS Platform  
+A mobile-first SaaS platform empowering kennel owners to manage bookings, pets, and communication.  
+- Architected a **multi-tenant backend** using **Node.js**, **TypeScript**, and **PostgreSQL**  
+- Designed schema-based tenant isolation and scalable data separation  
+- Integrated **AWS S3** for secure media handling and managed deployments via **EC2**  
+- Boosted performance using **LRU caching**, **async workflows**, and **cron jobs**
+
+#### 🏫 [SkoolSure](https://skoolsure.com/)
+Currently building a robust school ecosystem platform enabling seamless collaboration between parents and institutions.  
+- Developed backend using **Node.js**, **TypeScript**, **MongoDB**, and **AWS S3**  
+- Implemented **JWT-based RBAC**, modular service architecture, and EC2-based deployment  
+- Reduced project timeline by 1.5 months through rapid feature development and scalable architecture
 
 ---
 
