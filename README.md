@@ -18,11 +18,12 @@
 ### 🛠️ Engineering at Scale
 I'm a backend engineer passionate about building reliable, secure, and scalable systems. I thrive on writing clean APIs, designing resilient backend architectures, and optimizing systems for performance.
 
-- 🔭 Currently working on: [JobDhundo.Com]([https://github.com/kunal-2308/JobDhundo.Com](https://jobdhundo-theta.vercel.app/))
+- 🔭 Currently working on: [JobDhundo.Com](https://jobdhundo-theta.vercel.app/)
 - 🌱 Diving deeper into: DevOps, System Design, Distributed Caching
 - 💬 Ask me about: REST APIs, Node.js, PostgreSQL, MongoDB, Redis, Microservices
-- 📄 Resume: [View My Resume]([https://drive.google.com/file/d/1I_qyj_sEgiAJYwWkvt9UxMb56xfn7DOd/view?usp=drive_link](https://drive.google.com/file/d/1IEW4f40aTq4tSW1etLXW6pxzxQSYOoaB/view?usp=sharing))
+- 📄 Resume: [View My Resume](https://drive.google.com/file/d/1IEW4f40aTq4tSW1etLXW6pxzxQSYOoaB/view?usp=sharing)
 - 📫 Reach me at: **kunaltaware210@gmail.com**
+
 
 ---
 
